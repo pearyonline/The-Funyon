@@ -3,18 +3,62 @@ body{
     background-color:rgb(0, 0, 0)
 }
 
+
 @media (min-width: 500px){
     body{
-        background-color: rgb(95, 95, 95);
+        background-color: rgb(148, 216, 255);
     }
-    #normal
-
+    .mobileh1{
+        font-size:50px;
+    }
+    .mobiletxt{
+        font-size: 35px;
+    }
+    #normalimg{
+        height: 300px;
+    }
+    .evilh1{
+        font-size: 0px;
+        }
+    .eviltxt {
+        font-size: 0px;
+    }
+    #evilimg{
+        height: 0px;
+    }
+    .normaltxt{
+        font-size: 0px;
+    }
+    .normalh1{
+        font-size: 0px;
+    }
 }
+
+
 @media (min-width: 768px){
     body{
         background-color: rgb(255, 0, 0);
     }
+    .evilh1{
+        font-size: 50px;
+    }
+    .eviltxt {
+        font-size: 35px;
+    }
+    .evilimg{
+        height: 300px;
+    }
+    .mobileh1{
+        font-size:0px;
+    }
+    .mobiletxt{
+        font-size: 0px;
+    }
+    #normalimg{
+    height: 0px;
 }
+
+
 
 @media (min-width: 1024px){
     body{
