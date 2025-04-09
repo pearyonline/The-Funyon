@@ -50,12 +50,12 @@ body {
 
     .evilh1 {
         font-size: 50px;
-
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
     .eviltxt {
         font-size: 35px;
-
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
     #evilimg {
@@ -92,10 +92,12 @@ body {
 
     .normaltxt {
         font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
     }
 
     .normalh1 {
         font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
     }
 
     #normalimg {
