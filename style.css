@@ -2,19 +2,6 @@ body{
    text-align: center;
     background-color:rgb(0, 0, 0)
 }
-h1{
-    font-size: 50px;
-}
-p{
-    font-size: 35px;
-}
-img{
-    height: 400px;
-    width: 900px;
-}
-#evil{
-    font-size: 0px;
-}
 
 @media (min-width: 500px){
     body{
@@ -22,57 +9,14 @@ img{
     }
 
 }
-
-
-
 @media (min-width: 768px){
     body{
         background-color: rgb(255, 0, 0);
     }
-    p{
-        font-size: 0px;
-    }
-    #evil {
-        font-size: 35px;
-    }
-    #evil1{
-        font-size: 99px;
-    }
-    h1{
-        font-size: 0px;
-    }
-    img{
-        width: 0px;
-        height: 0px;
-    }
-    #evilimg{
-        height: 100px;
-    }
-   
 }
 
 @media (min-width: 1024px){
     body{
         background-color: rgb(238, 238, 238);
     }
-    h1{
-        font-size: 50px;
-    }
-    p{
-        font-size: 35px;
-    }
-    img{
-        height: 400px;
-        width: 900px;
-    }
-    #evil{
-        font-size: 0px;
-    }
-    #evil1{
-        display: none;
-    }
-    #evilimg {
-        display: none;
-    }
-   
 }
